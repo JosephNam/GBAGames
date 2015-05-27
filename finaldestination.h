@@ -1,0 +1,6 @@
+#ifndef FINALDESTINATION_BITMAP_H
+#define FINALDESTINATION_BITMAP_H
+extern const unsigned short finaldestination[38400];
+#define FINALDESTINATION_WIDTH 240
+#define FINALDESTINATION_HEIGHT 160
+#endif
